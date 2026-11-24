@@ -1,0 +1,5 @@
+interface:
+  display_name: "Blender 中文教程检索"
+  short_description: "先查本地教程库与索引，再用 opencli 定向搜 B 站并分级登记中文教程"
+  default_prompt: "先查本地教程库与现有索引，缺细分中文教程时用 opencli bilibili 定向检索 B 站高质量原创教程并按版本与可信度分级登记。"
+  default_prompt: "Use $blender-tutorial-scout for this Blender workflow task."
